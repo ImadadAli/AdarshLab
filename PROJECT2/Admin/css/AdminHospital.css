@@ -1,0 +1,113 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar{
+    background-color: black;
+    display: block;
+    position: fixed;
+    width: 7cm;
+    height: 16.2cm;
+}
+.title{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+    margin-top: 30px;
+    color: green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.AdminName{
+    
+    color: white;
+    margin-top: 20px;
+    margin-left: 35px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.navItem{
+    margin-top: 30px;
+    margin-right: 62px;
+}
+.navItem li a{
+    margin-left: 35px;
+    font-size: 21px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+}
+.navItem li{
+    margin-top: 10px;
+    padding: 10px;
+}
+.DashBord{
+    background-color: whitesmoke;
+    text-decoration: underline;
+    border-top-right-radius: 80px;
+}
+.abc{
+    color: black;
+}
+.cba{
+    color: white;
+}
+.navItem ul li:hover{
+    background-color: whitesmoke;
+    text-decoration: underline;
+    border-top-right-radius: 80px;
+}
+.navItem ul li a:hover{
+    color: black;
+}
+.mainDiv{
+    position: absolute;
+    left: 264px;
+    width: 1016px;
+    height: 16.1cm;
+    
+}
+.heading{
+    margin-top: 1cm;
+    text-align: center;
+    color: purple;
+    font-size: 50px;
+}
+
+.styled-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    border:2px solid #009879;
+}
+.styled-table thead tr {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+}
+.styled-table th,
+.styled-table td {
+    padding: 12px 4px;
+   text-align: center;
+   width: 120px;
+}
+.styled-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+    color: #009879;
+}
+
+.styled-table tbody tr:last-of-type {
+    border-bottom: 2px solid #009879;
+    
+}
+.Table{
+    
+    padding: 0px 2px;
+}
+

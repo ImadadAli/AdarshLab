@@ -1,0 +1,42 @@
+.heading{
+    margin-top: 1cm;
+    text-align: center;
+    color: purple;
+    font-size: 50px;
+}
+.uform{
+text-align: center;   
+margin-top: 20px;    
+
+}
+.uform input{
+margin-top: 4px;
+width: 10cm;
+border-radius: 7px;
+border: 2x solid purple;
+height: 1cm;
+}
+.uform button{
+margin: 5px;
+}
+
+.button{
+background-color: purple;
+color: white;
+font-weight: bold;
+margin-top: 10px;
+padding: 10px;
+border-radius: 7px;
+border: 0px black;
+}
+.button:hover{
+background-color: white;
+color: purple;
+}
+.button a{
+    color: white;
+    text-decoration: none;
+}
+.button a:hover{
+    color: purple;
+}

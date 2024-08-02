@@ -1,0 +1,103 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar{
+    background-color: black;
+    display: block;
+    position: fixed;
+    width: 7cm;
+    height: 16.2cm;
+}
+.title{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+    margin-top: 30px;
+    color: green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.AdminName{
+    
+    color: white;
+    margin-top: 20px;
+    margin-left: 35px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.navItem{
+    margin-top: 30px;
+    margin-right: 62px;
+}
+.navItem li a{
+    margin-left: 35px;
+    font-size: 21px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+}
+.navItem li{
+    margin-top: 10px;
+    padding: 10px;
+}
+.DashBord{
+    background-color: whitesmoke;
+    text-decoration: underline;
+    border-top-right-radius: 80px;
+}
+.abc{
+    color: black;
+}
+.cba{
+    color: white;
+}
+.navItem ul li:hover{
+    background-color: whitesmoke;
+    text-decoration: underline;
+    border-top-right-radius: 80px;
+}
+.navItem ul li a:hover{
+    color: black;
+}
+.mainDiv{
+    position: absolute;
+    left: 264px;
+    width: 1016px;
+    height: 16.1cm;
+    
+}
+.heading{
+    margin-top: 1cm;
+    text-align: center;
+    color: purple;
+    font-size: 50px;
+}
+.uform{
+text-align: center;   
+margin-top: 20px;    
+
+}
+.uform input{
+margin-top: 4px;
+width: 10cm;
+border-radius: 7px;
+border: 2x solid purple;
+height: 1cm;
+}
+.uform button{
+margin: 5px;
+}
+
+.button{
+background-color: purple;
+color: white;
+font-weight: bold;
+margin-top: 10px;
+padding: 10px;
+border-radius: 7px;
+border: 0px black;
+}
+.button:hover{
+background-color: white;
+color: purple;
+}
